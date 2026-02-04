@@ -107,6 +107,7 @@ li a:hover {
 p{
     text-align: center;
     width: 75%;
+    font-family: Times New Roman, serif;
 }
 span{
     font-weight: bold;
@@ -126,4 +127,8 @@ display: flex;
     border: 8px solid #f1c40f;
     font-weight: bold;
 
+}
+
+a:hover{
+    color: orange;
 }
