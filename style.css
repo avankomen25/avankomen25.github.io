@@ -58,10 +58,11 @@ color: white;
 
 
 
- h1 , h3{
-    font-family: Times New Roman, serif;
+ h1 , h2{
+    font-family: "Times New Roman", serif;
     color:navy;
     font-weight: bold;
+    text-align: center;
  }
  
  a{
@@ -88,7 +89,7 @@ list-style-type: none;
   background-color:#e0e0e0 ;
   text-align: center;
   font-weight: bold;
-  font-family: Times New Roman, serif;
+  font-family: "Times New Roman", serif;
 }
 
 /* Change the link and background color on hover */
@@ -107,7 +108,7 @@ li a:hover {
 p{
     text-align: center;
     width: 75%;
-    font-family: Times New Roman, serif;
+    font-family: "Times New Roman", serif;
 }
 span{
     font-weight: bold;
